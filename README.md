@@ -1,7 +1,10 @@
-# Emmanuel M Montesinos - Programador Junior en Python
-![avatar](https://github.com/EmmanuelMMontesinos/EmmanuelMMontesinos/assets/97795200/141e6ffd-d491-4158-876e-9a0d02b2b90e)
+![junior_banner](https://github.com/EmmanuelMMontesinos/EmmanuelMMontesinos/assets/97795200/c0228629-848d-46dd-800b-16de1dbd7578)
 
-¡Hola! 👋 Soy Emmanuel M Montesinos, un programador junior apasionado por el desarrollo de software con experiencia en Python. ¡Bienvenido a mi repositorio!
+# <div align="center" style="font-size: 20px;">Emmanuel M Montesinos</div>
+
+¡Hola! 👋 Me llamo Emmanuel M Montesinos, vivo en España y soy un programador interesado por el desarrollo de software, principalmente en Python.
+
+<div align="center" style="font-size: 20px;">¡Bienvenido a mi repositorio!</div>
 
 ## 🌱 Sobre mí
 
