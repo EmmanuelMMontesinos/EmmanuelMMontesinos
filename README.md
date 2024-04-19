@@ -13,7 +13,7 @@ Soy un entusiasta de la programación y me encanta explorar nuevas tecnologías 
 ## 📫 Contacto
 
 - **Twitter:** [@emmanuelmmontes](https://twitter.com/emmanuelmmontes)
-- **LinkedIn:** [Emmanuel M Montesinos](https://www.linkedin.com/in/emmanuelmmontesinos](https://www.linkedin.com/in/emmanuel-m-montesinos/)
+- **LinkedIn:** [Emmanuel M Montesinos](https://www.linkedin.com/in/emmanuel-m-montesinos/)
 
 ## 🔭 Proyectos Destacados
 
