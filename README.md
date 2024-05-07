@@ -25,6 +25,8 @@ Aquí algunos proyectos en los que he trabajado:
 
 3. **[ReSizeMe](https://github.com/EmmanuelMMontesinos/ReSizeMe)** He creado una herramienta rápida y fácil de usar para redimensionar imágenes.
 
+4. **[Bot Rol D&D5](https://github.com/EmmanuelMMontesinos/Bot_Rol_DyD5)** Bot de Discord con funciones para comunidades de rol.
+
 ## 👯 Contribuciones
 
 Me encanta colaborar con otros desarrolladores y contribuir a proyectos de código abierto. Si tienes algún proyecto interesante en el que crees que puedo colaborar, ¡no dudes en contactarme!
