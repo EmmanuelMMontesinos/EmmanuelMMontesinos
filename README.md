@@ -21,10 +21,7 @@ Soy un entusiasta de la programación y me encanta explorar nuevas tecnologías 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-m-montesinos/)
 
-## <div align="start" style="font-size: 20px;">🔭 Proyectos Destacadoso</div>
-
-Aquí algunos proyectos en los que he trabajado:
-
+## <div align="start" style="font-size: 20px;">🔭 Proyectos Destacados</div>
 
 [![Static Badge](https://img.shields.io/badge/My%20Cronos-My%20Cronos)
 ](https://github.com/EmmanuelMMontesinos/My_Cronos)
