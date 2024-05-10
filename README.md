@@ -2,36 +2,55 @@
 
 # <div align="center" style="font-size: 20px;">Emmanuel M Montesinos</div>
 
-¡Hola! 👋 Me llamo Emmanuel M Montesinos, vivo en España y soy un programador interesado por el desarrollo de software, principalmente en Python.
-
 <div align="center" style="font-size: 20px;">¡Bienvenido a mi repositorio!</div>
 
-## 🌱 Sobre mí
+¡Hola! 👋 Me llamo Emmanuel M Montesinos, vivo en España y soy un programador interesado por el desarrollo de software, principalmente en Python.
+
+## <div align="start" style="font-size: 20px;">🌱 Sobre mí</div>
 
 Soy un entusiasta de la programación y me encanta explorar nuevas tecnologías y soluciones creativas para resolver problemas. Me especializo en el desarrollo de aplicaciones utilizando Python y algunas de las herramientas que suelo utilizar incluyen Reflex, Tkinter y Flet.
 
-## 📫 Contacto
+## <div align="start" style="font-size: 20px;">⚙  Tecnologías</div>
 
-- **Twitter:** [@emmanuelmmontes](https://twitter.com/emmanuelmmontes)
-- **LinkedIn:** [Emmanuel M Montesinos](https://www.linkedin.com/in/emmanuel-m-montesinos/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔭 Proyectos Destacados
+## <div align="start" style="font-size: 20px;">📫 Contacto</div>
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/emmanuelmmontes)
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-m-montesinos/)
+
+## <div align="start" style="font-size: 20px;">🔭 Proyectos Destacadoso</div>
 
 Aquí algunos proyectos en los que he trabajado:
 
-1. **[My Cronos](https://github.com/EmmanuelMMontesinos/My_Cronos):** Desarrollé un sistema de gestión de horas trabajadas en Python utilizando Tkinter para la interfaz de usuario y SQLite para la base de datos.
+
+[![Static Badge](https://img.shields.io/badge/My%20Cronos-My%20Cronos)
+](https://github.com/EmmanuelMMontesinos/My_Cronos)
+
+Desarrollé un sistema de gestión de horas trabajadas en Python utilizando Tkinter para la interfaz de usuario y SQLite para la base de datos.
      
-2. **[DowYot](https://github.com/EmmanuelMMontesinos/DowYot):** Desarrollé un programa de descarga múltiple (vídeos o playlist) para Youtube.
+[![Static Badge](https://img.shields.io/badge/DowYot-DowYot?color=red)
+](https://github.com/EmmanuelMMontesinos/DowYot)
 
-3. **[ReSizeMe](https://github.com/EmmanuelMMontesinos/ReSizeMe)** He creado una herramienta rápida y fácil de usar para redimensionar imágenes.
+Desarrollé un programa de descarga múltiple (vídeos o playlist) para Youtube.
 
-4. **[Bot Rol D&D5](https://github.com/EmmanuelMMontesinos/Bot_Rol_DyD5)** Bot de Discord con funciones para comunidades de rol.
+[![Static Badge](https://img.shields.io/badge/ReSizeMe-ReSizeMe?color=blue)
+](https://github.com/EmmanuelMMontesinos/ReSizeMe)
 
-## 👯 Contribuciones
+He creado una herramienta rápida y fácil de usar para redimensionar imágenes.
+
+[![Static Badge](https://img.shields.io/badge/Bot%20Rol%20D%26D5-Bot%20Rol%20D%26D5?color=purple)
+](https://github.com/EmmanuelMMontesinos/Bot_Rol_DyD5)
+
+Bot de Discord con funciones para comunidades de rol.
+
+## <div align="start" style="font-size: 20px;">👯 Contribuciones</div>
 
 Me encanta colaborar con otros desarrolladores y contribuir a proyectos de código abierto. Si tienes algún proyecto interesante en el que crees que puedo colaborar, ¡no dudes en contactarme!
 
-## ⚡ Agradecimientos
+## <div align="start" style="font-size: 20px;">⚡ Agradecimientos</div>
 
 Agradezco tu interés en mi perfil y en mis proyectos. ¡Espero poder colaborar contigo pronto!
 
