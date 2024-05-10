@@ -29,17 +29,17 @@ Aquí algunos proyectos en los que he trabajado:
 [![Static Badge](https://img.shields.io/badge/My%20Cronos-My%20Cronos)
 ](https://github.com/EmmanuelMMontesinos/My_Cronos)
 
-Desarrollé un sistema de gestión de horas trabajadas en Python utilizando Tkinter para la interfaz de usuario y SQLite para la base de datos.
+Sistema de gestión de horas trabajadas en Python utilizando Tkinter para la interfaz de usuario y SQLite para la base de datos.
      
 [![Static Badge](https://img.shields.io/badge/DowYot-DowYot?color=red)
 ](https://github.com/EmmanuelMMontesinos/DowYot)
 
-Desarrollé un programa de descarga múltiple (vídeos o playlist) para Youtube.
+Programa de descarga múltiple (vídeos o playlist, vídeo o solo audio) para Youtube.
 
 [![Static Badge](https://img.shields.io/badge/ReSizeMe-ReSizeMe?color=blue)
 ](https://github.com/EmmanuelMMontesinos/ReSizeMe)
 
-He creado una herramienta rápida y fácil de usar para redimensionar imágenes.
+Herramienta rápida y fácil de usar. Puede redimensionar, convertir, comprimir y quitar fondos para imágenes.
 
 [![Static Badge](https://img.shields.io/badge/Bot%20Rol%20D%26D5-Bot%20Rol%20D%26D5?color=purple)
 ](https://github.com/EmmanuelMMontesinos/Bot_Rol_DyD5)
