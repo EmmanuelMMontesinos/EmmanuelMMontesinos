@@ -1,5 +1,8 @@
 ![junior_banner](https://github.com/EmmanuelMMontesinos/EmmanuelMMontesinos/assets/97795200/c0228629-848d-46dd-800b-16de1dbd7578)
 
+![banner_2_github](https://github.com/EmmanuelMMontesinos/EmmanuelMMontesinos/assets/97795200/15e2b182-362e-42df-a9d8-357b8c96c342)
+
+
 # <div align="center" style="font-size: 20px;">Emmanuel M Montesinos</div>
 
 <div align="center" style="font-size: 20px;">¡Bienvenido a mi repositorio!</div>
