@@ -46,6 +46,9 @@ Herramienta rápida y fácil de usar. Puede redimensionar, convertir, comprimir 
 
 Bot de Discord con funciones para comunidades de rol.
 
+[![Static Badge](https://img.shields.io/badge/Flet%20Package%20Loader-Flet%20Package%20Loader?color=gold)](https://github.com/EmmanuelMMontesinos/Flet-Packages-Loader)
+
+Herramienta para cargar las dependencias en tus build en Flet.
 ## <div align="start" style="font-size: 20px;">👯 Contribuciones</div>
 
 Me encanta colaborar con otros desarrolladores y contribuir a proyectos de código abierto. Si tienes algún proyecto interesante en el que crees que puedo colaborar, ¡no dudes en contactarme!
