@@ -25,11 +25,6 @@ Soy un entusiasta de la programación y me encanta explorar nuevas tecnologías 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-m-montesinos/)
 
 ## <div align="start" style="font-size: 20px;">🔭 Proyectos Destacados</div>
-
-[![Static Badge](https://img.shields.io/badge/My%20Cronos-My%20Cronos)
-](https://github.com/EmmanuelMMontesinos/My_Cronos)
-
-Sistema de gestión de horas trabajadas en Python utilizando Tkinter para la interfaz de usuario y SQLite para la base de datos.
      
 [![Static Badge](https://img.shields.io/badge/DowYot-DowYot?color=red)
 ](https://github.com/EmmanuelMMontesinos/DowYot)
@@ -50,7 +45,7 @@ Bot de Discord con funciones para comunidades de rol.
 
 Herramienta para cargar las dependencias en tus build en Flet.
 
-[![Static Badge](https://img.shields.io/badge/MIDIKeymap-MIDIKeymap?color=pink)
+[![Static Badge](https://img.shields.io/badge/MIDIKeymap-MIDIKeymap?color=mint)
 ](https://github.com/EmmanuelMMontesinos/MIDIKeymap)
 
 Mapea un controlador MIDI con atajos de teclados y mucho más!
